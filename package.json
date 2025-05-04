@@ -9,6 +9,11 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/yi03/koishi-plugin-tldr3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi03/koishi-plugin-tldr3.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",

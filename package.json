@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-tldr3",
   "description": "让AI总结两条消息之间的所有消息",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
